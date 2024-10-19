@@ -1,6 +1,9 @@
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=kiaantolia)
+# About me
+👋 I am kiaantolia<br>
+💻 Fullstack dev<br>
+🏃 Loves all sports <br>
+🥶 Busy 
 
-<!---
-kiaantolia/kiaantolia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Number of profile views since 10/19/24
+
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=kiaantolia)
